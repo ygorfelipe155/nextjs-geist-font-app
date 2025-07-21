@@ -1,0 +1,34 @@
+# Core Kivy dependencies
+kivy==2.3.0
+kivymd==1.1.1
+
+# Database and data handling
+sqlite3
+json5
+pandas==2.1.4
+
+# Async and threading support
+asyncio
+threading
+concurrent.futures
+
+# Logging and monitoring
+psutil==5.9.6
+logging
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# HTTP server for web interface (optional)
+flask==3.0.0
+flask-cors==4.0.0
+
+# Memory optimization
+gc
+weakref
+
+# System monitoring
+platform
+sys
+os
+time
